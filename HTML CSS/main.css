@@ -1,0 +1,52 @@
+body {background-color:#D20D0D;}
+
+h1 { font-family: Georgia;}
+
+h2
+{
+	color:#000000;
+}
+
+#tea
+{
+
+	color:white;
+	font-size: 30px;
+}
+
+
+li.melisa{
+color: white;
+
+}
+
+
+table,tr,th,td{
+     border: 5px white;
+} 
+
+
+
+#meni li {
+
+        display: inline;
+        padding-left: 70px;
+}
+
+#meni
+{
+    
+	float: center;
+	margin: 1em;
+clear: both;
+ font-family: 'arial';
+}
+
+#meni a
+{
+
+	color: white;
+	text-decoration: underline;
+	font-size: 50px;
+	
+}
